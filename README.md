@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nathanjzhao/nathanjzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Nathan
 
-Here are some ideas to get you started:
+I do hackathons, machine learning, and solving esoteric puzzles at Stanford. Learning is iterative and fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="font-size: 40px;">
+
+```math
+\Huge \lim_{t \rightarrow \infty} (\text{commit message}) = \text{``small fix"}
+```
+
+</div>
