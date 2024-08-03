@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hey, I'm Nathan
+### :wave: Hey, I'm Nathan
 
-I do hackathons, machine learning, and solving esoteric puzzles at Stanford. Learning is iterative and fun
+I do hackathons, machine learning, and solving esoteric puzzles at Stanford.
 
 <div style="font-size: 40px;">
 
