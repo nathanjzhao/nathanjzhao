@@ -7,7 +7,11 @@ I do hackathons, machine learning research, and esoteric puzzles at Stanford.
 <div style="font-size: 40px;">
 
 ```math
-\Huge \lim_{t \rightarrow \infty} (\text{commit message}) = \text{``small fix"}
+\phi_t(x) = (1 - \epsilon_t) \, \text{Q}(x) + \epsilon_t \, \text{U}(x)
+```
+
+```math
+\epsilon_t = \text{Intuition}(t, \beta)
 ```
 
 </div>
