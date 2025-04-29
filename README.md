@@ -2,7 +2,7 @@
 
 ### :wave: Hey, I'm Nathan
 
-I do hackathons, machine learning research, and esoteric puzzles at Stanford.
+I do hackathons, machine learning research, and esoteric puzzles. Previously at Stanford.
 
 <div style="font-size: 40px;">
 
